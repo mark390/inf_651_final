@@ -6,7 +6,6 @@ let airline_button = document.getElementById("airline");
 let clear_button = document.getElementById("reset")
 let ga_button = document.getElementById("ga")
 let flight_ul = document.getElementById("flight_list");
-let url = "https://www.flightstats.com/v2/flight-tracker/"
 let d = new Date()
 let my_year = d.getFullYear()
 let my_month = d.getMonth()
