@@ -1,0 +1,52 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.main {
+  background: url("images/CAT_IIIA_Landing.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+  text-transform: uppercase;
+}
+h2 {
+  color: white;
+}
+
+h3 {
+  text-align: center;
+  color: white;
+  text-shadow: 3px 3px 0px #F2A063;
+}
+
+.random {
+  background: url("images/sky.png") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.fp {
+  background: url("images/landing.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+
+.helpful {
+  text-align: center;
+  color: white;
+  text-rendering: auto;
+}
