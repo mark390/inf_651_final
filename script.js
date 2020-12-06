@@ -1,5 +1,5 @@
 airlines = ["AA", "DL", "UA", "WN", "B6", "AC", "G9", "AM", "NK", "LA", "BA", "AF", "LH", "EK", "ANA", "CX", "SQ"];
-cargo = ["FX","SO", "5X", "5Y", "PO"]
+cargo = ["FX", "5X"]
 destinations = ['KALB', 'KABQ', 'KACY', 'KBHM', 'KHSV', 'KMOB', 'PANC', 'KOMA', 'KTUS', 'KLIT', 'KXNA', 'KBAB', 'KBUR', "KORF", "KHYS", "KORD", "KBOS", "KMCO"]
 let cargo_button = document.getElementById("cargo");
 let airline_button = document.getElementById("airline");
